@@ -1,0 +1,46 @@
+.word{
+	
+}
+
+.banner-bg-1::before{
+	background-color: transparent;
+}
+
+.single-service{
+	margin-bottom: 15px;
+}
+
+.single-service h3{
+	margin-top: -30px;
+}
+
+.single-service a{
+	margin-top: 10px !important;
+	background-color: #2f69d7;
+	padding: 5px;
+	text-decoration: none;
+	color: white !important;
+	text-transform: uppercase !important;
+	font-size: 12px !important;
+	border-radius: 5px;
+}
+
+.single-service a:hover{
+	text-decoration: none !important;
+	background-color: #51acdf;
+
+}
+
+.single-service p{
+	margin-top: -5px !important;
+	margin-bottom: 0px !important;
+}
+
+.service-thumb img{
+	height: 280px !important;
+}
+
+.card-services .col-xl-4{
+
+}
+
