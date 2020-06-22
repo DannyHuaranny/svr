@@ -53,7 +53,7 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="Layouts/imagenes/DESINFECCION/1.jpg" alt="" style="height: 300px !important">
+                            <img src="Layouts/imagenes/DESINFECCION/1.JPG" alt="" style="height: 300px !important">
                         </div>
                         <h3>Limpieza, Lavado y Desinfección de Bienes </h3>
                         <p>Garantizamos un trabajo con estandares de calidad y seguridad.</p>
@@ -74,7 +74,7 @@ Gigantografías,  Totems de grifos, Paneles exteriores, Letreros luminosos.</b><
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="Layouts/imagenes/PINTURA/1.jpg" alt="" style="height: 300px !important">
+                            <img src="Layouts/imagenes/PINTURA/1.JPG" alt="" style="height: 300px !important">
                         </div>
                         <h3>Pintura en General</h3>
                         <p>Trabajos diversos en señalización, Horizontal y Vertical.
