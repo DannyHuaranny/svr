@@ -1,5 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-RewriteRule ^sobre-nosotros$ ?c=About&a=View
-RewriteRule ^servicios$ ?c=Services&a=View
