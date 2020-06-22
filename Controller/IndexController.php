@@ -1,13 +1,13 @@
 <?php 
 //Llamada al modelo
-require_once("Model/IndexModel.php");
+//require_once("Model/IndexModel.php");
 
 
 Class IndexController{
-    private $model;
+   // private $model;
 
-    public function __construct(){
-$this->model=new IndexModel;
+    //public function __construct(){
+//$this->model=new IndexModel;
     }
 //Llamada a la vista
 
