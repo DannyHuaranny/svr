@@ -144,7 +144,7 @@ Pinturas tipo tráfico para marcas sobre pavimento. (carreteras, calles, avenida
                     <div class="project-active owl-carousel">
                         <div class="single-project">
                             <div class="project-thumb">
-                                <img src="Layouts/imagenes/PUBLICIDAD/1.jpg" alt="">
+                                <img src="Layouts/imagenes/PUBLICIDAD/1.JPG" alt="">
                             </div>
                             <div class="project-info">
                                 <span>Montaje e Instalación de Publicitarios</span>
@@ -153,7 +153,7 @@ Pinturas tipo tráfico para marcas sobre pavimento. (carreteras, calles, avenida
                         </div>
                         <div class="single-project">
                             <div class="project-thumb">
-                                <img src="Layouts/imagenes/PINTURA/1.jpg" alt="">
+                                <img src="Layouts/imagenes/PINTURA/1.JPG" alt="">
                             </div>
                             <div class="project-info">
                                  <span>Pintura General en estacion de servicios</span>
@@ -162,7 +162,7 @@ Pinturas tipo tráfico para marcas sobre pavimento. (carreteras, calles, avenida
                         </div>
                         <div class="single-project">
                             <div class="project-thumb">
-                                <img src="Layouts/imagenes/ESTRUCTURAS/1.jpg" alt="">
+                                <img src="Layouts/imagenes/ESTRUCTURAS/1.JPG" alt="">
                             </div>
                             <div class="project-info">
                                  <span>Contruccion e instalación de estructura </span>
