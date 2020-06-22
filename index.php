@@ -87,7 +87,7 @@ Pinturas tipo tráfico para marcas sobre pavimento. (carreteras, calles, avenida
                 <div class="col-xl-4 col-md-4">
                     <div class="single-service">
                         <div class="service-thumb">
-                            <img src="Layouts/imagenes/ESTRUCTURAS/1.jpg" alt="" style="height: 300px !important">
+                            <img src="Layouts/imagenes/ESTRUCTURAS/1.JPG" alt="" style="height: 300px !important">
                         </div>
                         <h3>Estructuras Metálicas</h3>
                         <p>Realizamos fabricación y montaje de techos CANOPI, Mantenimiento de totem publicitario, <b>Desmontaje de Totems y techos, todo tipo de estructuras metálicas</b></p>
